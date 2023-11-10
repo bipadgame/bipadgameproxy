@@ -8,7 +8,7 @@ Ipv6 \64
 Installation
 [Video tutorial](https://www.youtube.com/watch?v=F6hhNfFKQEk, used as Centos setup
 
-bash <(curl -s "https://raw.githubusercontent.com/quayvlog/proxyv6/main/install.sh")
+bash <(curl -s "https://raw.githubusercontent.com/bipadgame/bipadgameproxy/main/install.sh")
 
 After installation dowload the file proxy.zip
 
